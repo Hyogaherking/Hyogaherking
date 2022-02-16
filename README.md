@@ -14,6 +14,7 @@
  <a href="https://discord.gg/kjxmaJVR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://gabriel3dufiladelfo@gmail.com"target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.tiktok.com/@hyogathebest"target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/hyogacria/"target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
  
   ![Snake animation](https://github.com/Hyogaherking/Hyogaherking/blob/output/github-contribution-grid-snake.svg)
  
