@@ -10,7 +10,7 @@
    <img align="center" alt="Hyoga-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
  </div>
 <div> 
-  <h1>Perfil do pai 😝</h1>
+  <h1>Perfil</h1>
  <a href="https://dashboard.twitch.tv/u/hyogabr_/settings/channel" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/kjxmaJVR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://gabriel3dufiladelfo@gmail.com"target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
