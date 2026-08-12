@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h6 data-importer="text" align="center">Estudante de análise e desenvolvimento de sistemas (Uneduvale) | Técnico em Programação de Jogos Digitais (Centro Paula Souza)</h6>
+<h2 data-importer="text" align="center">Estudante de análise e desenvolvimento de sistemas (Uneduvale) | Técnico em Programação de Jogos Digitais (Centro Paula Souza)</h2>
 
 ###
 
